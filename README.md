@@ -2,5 +2,12 @@
 
 ## Задача 1: API Gateway
 
-С помощью **docker** запустил и связал между собой:
- - elasticsearch (hot и warm ноды);
+| Решение  | Лицензия |
+| ------------- | ------------- |
+| Apache APISIX  | Open source  |
+| Kong  | Open source  |
+| Tyk  | Open source  |
+| Gravitee.io  | Open source  |
+| APIGee  | Платная  |
+| Axway  | Платнаяl  |
+| NGINX Plus  | Платная  |
